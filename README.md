@@ -8,3 +8,7 @@
 #8 - Pode - se fazer de duas maneira, como BLOB em um campo do BD ou como um ponteiro para localizar o arquivo no disco.</br>
 #9 - Quantos forem preciso.</br>
 #10 - GET, DELETE e PUT</br>
+
+</br>
+
+Live preview: React App (bloco-de-notas-gamma.vercel.app)
