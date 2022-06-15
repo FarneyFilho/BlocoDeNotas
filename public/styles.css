@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+.footer {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    font-size: 20px;
+    background-color: hsl(58, 100%, 75%);
+
+}
+
+
