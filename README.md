@@ -11,4 +11,4 @@
 
 </br>
 
-Live preview: React App (bloco-de-notas-gamma.vercel.app)
+Live preview: https://bloco-de-notas-gamma.vercel.app/
